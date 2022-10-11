@@ -1,0 +1,60 @@
+[0.008s] Invoking command in '/home/liyanshen/chapter_3_ws/build/moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/liyanshen/chapter_3_ws/moveit_config -DCMAKE_INSTALL_PREFIX=/home/liyanshen/chapter_3_ws/install/moveit_config
+[0.081s] -- The C compiler identification is GNU 11.2.0
+[0.193s] -- The CXX compiler identification is GNU 11.2.0
+[0.208s] -- Detecting C compiler ABI info
+[0.300s] -- Detecting C compiler ABI info - done
+[0.310s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.310s] -- Detecting C compile features
+[0.310s] -- Detecting C compile features - done
+[0.313s] -- Detecting CXX compiler ABI info
+[0.410s] -- Detecting CXX compiler ABI info - done
+[0.420s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.420s] -- Detecting CXX compile features
+[0.421s] -- Detecting CXX compile features - done
+[0.423s] -- Found ament_cmake: 1.3.2 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.689s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.4") found components: Interpreter 
+[0.905s] -- Configuring done
+[0.908s] -- Generating done
+[0.909s] -- Build files have been written to: /home/liyanshen/chapter_3_ws/build/moveit_config
+[0.913s] Invoked command in '/home/liyanshen/chapter_3_ws/build/moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/liyanshen/chapter_3_ws/moveit_config -DCMAKE_INSTALL_PREFIX=/home/liyanshen/chapter_3_ws/install/moveit_config
+[0.916s] Invoking command in '/home/liyanshen/chapter_3_ws/build/moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/liyanshen/chapter_3_ws/build/moveit_config -- -j8 -l8
+[0.957s] Invoked command in '/home/liyanshen/chapter_3_ws/build/moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/liyanshen/chapter_3_ws/build/moveit_config -- -j8 -l8
+[0.976s] Invoking command in '/home/liyanshen/chapter_3_ws/build/moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/liyanshen/chapter_3_ws/build/moveit_config
+[0.989s] -- Install configuration: ""
+[0.989s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/ament_index/resource_index/package_run_dependencies/moveit_config
+[0.990s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/ament_index/resource_index/parent_prefix_path/moveit_config
+[0.991s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/environment/ament_prefix_path.sh
+[0.991s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/environment/ament_prefix_path.dsv
+[0.992s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/environment/path.sh
+[0.992s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/environment/path.dsv
+[0.992s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/local_setup.bash
+[0.993s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/local_setup.sh
+[0.993s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/local_setup.zsh
+[0.993s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/local_setup.dsv
+[0.994s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/package.dsv
+[0.994s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/ament_index/resource_index/packages/moveit_config
+[0.995s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/cmake/moveit_configConfig.cmake
+[0.995s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/cmake/moveit_configConfig-version.cmake
+[0.995s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/package.xml
+[0.996s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/launch
+[0.996s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/launch/rsp.launch.py
+[0.996s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/launch/static_virtual_joint_tfs.launch.py
+[0.996s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/launch/move_group.launch.py
+[0.997s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/launch/warehouse_db.launch.py
+[0.997s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/launch/setup_assistant.launch.py
+[0.997s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/launch/moveit_rviz.launch.py
+[0.997s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/launch/spawn_controllers.launch.py
+[0.998s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/launch/demo.launch.py
+[0.998s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/config
+[0.998s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/config/ros2_controllers.yaml
+[0.998s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/config/initial_positions.yaml
+[0.999s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/config/mobile_manipulator.ros2_control.xacro
+[0.999s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/config/mobile_manipulator.urdf.xacro
+[0.999s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/config/pilz_cartesian_limits.yaml
+[0.999s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/config/kinematics.yaml
+[1.000s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/config/moveit.rviz
+[1.000s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/config/joint_limits.yaml
+[1.000s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/config/mobile_manipulator.srdf
+[1.000s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/config/moveit_controllers.yaml
+[1.001s] -- Installing: /home/liyanshen/chapter_3_ws/install/moveit_config/share/moveit_config/.setup_assistant
+[1.007s] Invoked command in '/home/liyanshen/chapter_3_ws/build/moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/liyanshen/chapter_3_ws/build/moveit_config

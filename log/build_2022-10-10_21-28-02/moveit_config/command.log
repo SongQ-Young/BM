@@ -1,0 +1,6 @@
+Invoking command in '/home/liyanshen/chapter_3_ws/build/moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/liyanshen/chapter_3_ws/moveit_config -DCMAKE_INSTALL_PREFIX=/home/liyanshen/chapter_3_ws/install/moveit_config
+Invoked command in '/home/liyanshen/chapter_3_ws/build/moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/liyanshen/chapter_3_ws/moveit_config -DCMAKE_INSTALL_PREFIX=/home/liyanshen/chapter_3_ws/install/moveit_config
+Invoking command in '/home/liyanshen/chapter_3_ws/build/moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/liyanshen/chapter_3_ws/build/moveit_config -- -j8 -l8
+Invoked command in '/home/liyanshen/chapter_3_ws/build/moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/liyanshen/chapter_3_ws/build/moveit_config -- -j8 -l8
+Invoking command in '/home/liyanshen/chapter_3_ws/build/moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/liyanshen/chapter_3_ws/build/moveit_config
+Invoked command in '/home/liyanshen/chapter_3_ws/build/moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/liyanshen/chapter_3_ws/build/moveit_config

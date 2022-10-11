@@ -1,0 +1,62 @@
+-- The C compiler identification is GNU 11.2.0
+-- The CXX compiler identification is GNU 11.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.2 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3.10 (found version "3.10.4") found components: Interpreter 
+-- Found ament_lint_auto: 0.12.4 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/liyanshen/chapter_3_ws/build/robot_description
+-- Install configuration: ""
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/config
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/config/joint_state_controller.yaml
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/config/view_urdf.rviz
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/config/control_fetch.yaml
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/config/arm_control.yaml
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/config/control.yaml
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/meshes
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/meshes/bicep.stl
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/meshes/wheel.stl
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/meshes/wrist.stl
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/meshes/robot_base.stl
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/meshes/arm_base.stl
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/meshes/elbow.stl
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/urdf
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/urdf/robot_base.urdf
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/urdf/robot_essentials.xacro
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/urdf/robot_arm.urdf
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/urdf/robot_arm.urdf.xacro
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/urdf/robot_arm_essentials.xacro
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/urdf/mobile_manipulator.urdf.xacro
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/urdf/gazebo_essentials_arm.xacro
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/urdf/gazebo_essentials.xacro
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/urdf/gazebo_essentials_base.xacro
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/urdf/robot_base_essentials.xacro
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/urdf/robot_base.urdf.xacro
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/urdf/mobile_manipulator.urdf
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/ament_index/resource_index/package_run_dependencies/robot_description
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/ament_index/resource_index/parent_prefix_path/robot_description
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/environment/ament_prefix_path.sh
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/environment/ament_prefix_path.dsv
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/environment/path.sh
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/environment/path.dsv
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/local_setup.bash
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/local_setup.sh
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/local_setup.zsh
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/local_setup.dsv
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/package.dsv
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/ament_index/resource_index/packages/robot_description
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/cmake/robot_descriptionConfig.cmake
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/cmake/robot_descriptionConfig-version.cmake
+-- Installing: /home/liyanshen/chapter_3_ws/install/robot_description/share/robot_description/package.xml
